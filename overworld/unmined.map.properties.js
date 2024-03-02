@@ -7,7 +7,7 @@ var UnminedMapProperties = {
     minRegionX: -20,
     minRegionZ: -12,
     maxRegionX: 22,
-    maxRegionZ: 11,
+    maxRegionZ: 30,
     worldName: "Survival with friends",
     background: "",
     markers: new Array()
